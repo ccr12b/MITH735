@@ -35,15 +35,13 @@ Documenting work progress and new findings.
 **Goals**
 -------
 #### *Individual Goals*
-* Misti
-  * To learn how to conduct a distant reading
-  * To learn more about and from the disciplines and research of Hazim and Callan
-* Hazim
-  * To learn
-* Callan
-  * To learn how to work collaboratively within the scope of digital humanities
-  * To learn how to take scholarly analysis and turn it into a digital humanities project.
-  * Gain more confidence working with DH.
+| Misti | Hazim| Callan |
+| --------- | --------- | --------- |
+| To learn how to conduct a distant reading | To learn| To learn how to work collaboratively within the scope of digital humanities|
+| To learn more about and from the disciplines and research of Hazim and Callan | | To learn how to take scholarly analysis and turn it into a digital humanities project.|
+|  | | Gain more confidence working with DH.|
+
+
 
 #### *Common and Scholarly Goals*
 * To explore how digital tools might enhance understanding of our research
